@@ -82,7 +82,7 @@ This Laravel project allows users to:
   - `ProfileController`: Manages user profile editing, updating, and deletion.
   - `PostController`: Handles CRUD operations for posts and associated content.
   - `UserController`: Displays user profiles with their posts and images.
-  - `ContentController`: Placeholder for content-related actions (not fully implemented).
+  - `ContentController`: Placeholder for content-related actions.
 
 - **Repositories**:
   - Implements the Repository pattern for data access.
