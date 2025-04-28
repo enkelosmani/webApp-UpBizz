@@ -120,5 +120,6 @@ Defined in `routes/web.php`:
 
 ## Notes
 - Ensure the `storage/app/public` directory is writable for image uploads.
+- Ensure the `mkdir bootstrap\cache` is created.
 - The `.env` file must be configured correctly for database and application settings.
 - Run `npm run dev` to compile frontend assets if changes are made to Tailwind, CSS/JS.
